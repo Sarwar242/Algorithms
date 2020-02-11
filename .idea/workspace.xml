@@ -18,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Sarwar &lt;sarwar.cse4.bu@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
@@ -176,6 +181,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1581445361440">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1581445361440" />
     <state x="463" y="128" key="FileChooserDialogImpl" timestamp="1581443294426">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
