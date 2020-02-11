@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79b4318a-89f0-4ed1-99b7-2686956ab717" name="Default Changelist" comment="" />
+    <list default="true" id="79b4318a-89f0-4ed1-99b7-2686956ab717" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,10 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1XX1y7jM8XXIELGPgWYioWS9tkf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -22,12 +29,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager" selected="Python.app">
-    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python">
       <module name="Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,7 +143,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.app" />
         <item itemvalue="Python.kmp" />
         <item itemvalue="Python.honoi" />
         <item itemvalue="Python.binarysearch2" />
@@ -180,29 +188,33 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="559" y="282" width="261" height="204" key="Github.ShareDialog/0.0.1366.768@0.0.1366.768" timestamp="1581443045507" />
-    <state width="1345" height="192" key="GridCell.Tab.0.bottom" timestamp="1581443930203">
+    <state width="1345" height="192" key="GridCell.Tab.0.bottom" timestamp="1581444269638">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1581443930203" />
-    <state width="1345" height="192" key="GridCell.Tab.0.center" timestamp="1581443930202">
+    <state width="1345" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1581444269638" />
+    <state width="1345" height="192" key="GridCell.Tab.0.center" timestamp="1581444269638">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1581443930202" />
-    <state width="1345" height="192" key="GridCell.Tab.0.left" timestamp="1581443930202">
+    <state width="1345" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1581444269638" />
+    <state width="1345" height="192" key="GridCell.Tab.0.left" timestamp="1581444269638">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1581443930202" />
-    <state width="1345" height="192" key="GridCell.Tab.0.right" timestamp="1581443930202">
+    <state width="1345" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1581444269638" />
+    <state width="1345" height="192" key="GridCell.Tab.0.right" timestamp="1581444269638">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1581443930202" />
+    <state width="1345" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1581444269638" />
     <state x="186" y="29" key="SettingsEditor" timestamp="1581443600254">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="186" y="29" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1581443600254" />
-    <state x="391" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1581442297059">
+    <state x="391" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1581444928323">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="391" y="211" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1581442297059" />
+    <state x="391" y="211" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1581444928323" />
+    <state x="494" y="302" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581445264891">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="494" y="302" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1581445264891" />
   </component>
 </project>
