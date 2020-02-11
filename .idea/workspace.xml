@@ -26,7 +26,28 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Python.kmp">
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="binarySearch" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,6 +134,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.app" />
         <item itemvalue="Python.kmp" />
         <item itemvalue="Python.honoi" />
         <item itemvalue="Python.binarysearch2" />
@@ -158,22 +180,22 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="559" y="282" width="261" height="204" key="Github.ShareDialog/0.0.1366.768@0.0.1366.768" timestamp="1581443045507" />
-    <state width="672" height="192" key="GridCell.Tab.0.bottom" timestamp="1581443495125">
+    <state width="1345" height="192" key="GridCell.Tab.0.bottom" timestamp="1581443930203">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="672" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1581443495125" />
-    <state width="672" height="192" key="GridCell.Tab.0.center" timestamp="1581443495125">
+    <state width="1345" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1581443930203" />
+    <state width="1345" height="192" key="GridCell.Tab.0.center" timestamp="1581443930202">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="672" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1581443495125" />
-    <state width="672" height="192" key="GridCell.Tab.0.left" timestamp="1581443495125">
+    <state width="1345" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1581443930202" />
+    <state width="1345" height="192" key="GridCell.Tab.0.left" timestamp="1581443930202">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="672" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1581443495125" />
-    <state width="672" height="192" key="GridCell.Tab.0.right" timestamp="1581443495125">
+    <state width="1345" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1581443930202" />
+    <state width="1345" height="192" key="GridCell.Tab.0.right" timestamp="1581443930202">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="672" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1581443495125" />
+    <state width="1345" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1581443930202" />
     <state x="186" y="29" key="SettingsEditor" timestamp="1581443600254">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
