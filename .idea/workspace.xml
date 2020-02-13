@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79b4318a-89f0-4ed1-99b7-2686956ab717" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emploee.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/useful_tools.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2.py" beforeDir="false" afterPath="$PROJECT_DIR$/app2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app3.py" beforeDir="false" afterPath="$PROJECT_DIR$/app3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Python.app3">
+  <component name="RunManager" selected="Python.app2">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python">
       <module name="Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -183,9 +182,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.app2" />
         <item itemvalue="Python.app3" />
         <item itemvalue="Python.game" />
-        <item itemvalue="Python.app2" />
         <item itemvalue="Python.kmp" />
         <item itemvalue="Python.honoi" />
       </list>
@@ -228,22 +227,31 @@
       <option name="project" value="LOCAL" />
       <updated>1581445400985</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Python Practice">
+      <created>1581615671971</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581615671971</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="pycharm" />
-    <option name="LAST_COMMIT_MESSAGE" value="pycharm" />
+    <MESSAGE value="Python Practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python Practice" />
   </component>
   <component name="WindowStateProjectService">
     <state x="363" y="122" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581531575700">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="363" y="122" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.768@0.0.1366.768" timestamp="1581531575700" />
-    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1581445399165">
+    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1581615669906">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1581445399165" />
+    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1581615669906" />
     <state x="463" y="128" key="FileChooserDialogImpl" timestamp="1581443294426">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -256,22 +264,22 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="559" y="282" width="261" height="204" key="Github.ShareDialog/0.0.1366.768@0.0.1366.768" timestamp="1581443045507" />
-    <state width="1345" height="192" key="GridCell.Tab.0.bottom" timestamp="1581615634160">
+    <state width="1345" height="192" key="GridCell.Tab.0.bottom" timestamp="1581616756591">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1581615634160" />
-    <state width="1345" height="192" key="GridCell.Tab.0.center" timestamp="1581615634160">
+    <state width="1345" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1581616756591" />
+    <state width="1345" height="192" key="GridCell.Tab.0.center" timestamp="1581616756582">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1581615634160" />
-    <state width="1345" height="192" key="GridCell.Tab.0.left" timestamp="1581615634160">
+    <state width="1345" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1581616756582" />
+    <state width="1345" height="192" key="GridCell.Tab.0.left" timestamp="1581616756582">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1581615634160" />
-    <state width="1345" height="192" key="GridCell.Tab.0.right" timestamp="1581615634160">
+    <state width="1345" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1581616756582" />
+    <state width="1345" height="192" key="GridCell.Tab.0.right" timestamp="1581616756582">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1581615634160" />
+    <state width="1345" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1581616756582" />
     <state width="1345" height="238" key="GridCell.Tab.1.bottom" timestamp="1581610630956">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -292,10 +300,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="186" y="29" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1581443600254" />
-    <state x="275" y="119" key="Vcs.Push.Dialog.v2" timestamp="1581445428310">
+    <state x="275" y="119" key="Vcs.Push.Dialog.v2" timestamp="1581615676676">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="119" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1581445428310" />
+    <state x="275" y="119" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1581615676676" />
     <state x="391" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1581605372580">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
