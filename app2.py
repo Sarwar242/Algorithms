@@ -28,12 +28,15 @@
 # friends2=friends.copy()
 # print(friends2)
 
-import asyncio
+# import asyncio
+#
+# async def main():
+#     print('Hello ...')
+#     await asyncio.sleep(5)
+#     print('... World!')
+#
+#
+# asyncio.run(main())
 
-async def main():
-    print('Hello ...')
-    await asyncio.sleep(1)
-    print('... World!')
-
-# Python 3.7+
-asyncio.run(main())
+for i in "Sarwar":
+    print(i)

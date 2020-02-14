@@ -2,11 +2,250 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79b4318a-89f0-4ed1-99b7-2686956ab717" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/useful_tools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/EGG-INFO/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/EGG-INFO/LICENSES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/EGG-INFO/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/EGG-INFO/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/EGG-INFO/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/EGG-INFO/requires.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/EGG-INFO/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/ElementInclude.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/_elementpath.cp37-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/_elementpath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/builder.cp37-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/builder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/cssselect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/doctestcompare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/etree.cp37-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/etree.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/etree_api.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/html/ElementSoup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/html/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/html/_diffcommand.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/html/_html5builder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/html/_setmixin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/html/builder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/html/clean.cp37-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/html/clean.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/html/defs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/html/diff.cp37-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/html/diff.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/html/formfill.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/html/html5parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/html/soupparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/html/usedoctest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/__init__.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/c14n.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/config.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/dtdvalid.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/etree_defs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/etreepublic.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/htmlparser.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libexslt/exslt.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libexslt/exsltconfig.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libexslt/exsltexports.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libexslt/libexslt.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/DOCBparser.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/HTMLparser.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/HTMLtree.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/SAX.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/SAX2.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/c14n.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/catalog.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/chvalid.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/debugXML.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/dict.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/encoding.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/entities.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/globals.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/hash.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/list.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/nanoftp.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/nanohttp.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/parser.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/parserInternals.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/pattern.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/relaxng.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/schemasInternals.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/schematron.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/threads.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/tree.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/uri.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/valid.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/xinclude.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/xlink.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/xmlIO.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/xmlautomata.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/xmlerror.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/xmlexports.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/xmlmemory.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/xmlmodule.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/xmlreader.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/xmlregexp.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/xmlsave.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/xmlschemas.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/xmlschemastypes.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/xmlstring.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/xmlunicode.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/xmlversion.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/xmlwriter.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/xpath.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/xpathInternals.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxml/xpointer.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxslt/attributes.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxslt/documents.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxslt/extensions.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxslt/extra.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxslt/functions.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxslt/imports.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxslt/keys.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxslt/libxslt.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxslt/namespaces.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxslt/numbersInternals.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxslt/preproc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxslt/security.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxslt/templates.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxslt/transform.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxslt/trio.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxslt/triodef.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxslt/variables.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxslt/win32config.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxslt/xslt.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxslt/xsltInternals.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxslt/xsltconfig.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxslt/xsltexports.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxslt/xsltlocale.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/libxslt/xsltutils.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/lxml-version.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/relaxng.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/schematron.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/tree.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/uri.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/xinclude.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/xmlerror.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/xmlparser.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/xmlschema.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/xpath.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/includes/xslt.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/isoschematron/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/isoschematron/resources/rng/iso-schematron.rng" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/isoschematron/resources/xsl/RNG2Schtrn.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/isoschematron/resources/xsl/XSD2Schtrn.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/iso_abstract_expand.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/iso_dsdl_include.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/iso_schematron_message.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/iso_schematron_skeleton_for_xslt1.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/iso_svrl_for_xslt1.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/lxml.etree.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/lxml.etree_api.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/objectify.cp37-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/pyclasslookup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/sax.cp37-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/sax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/lxml-4.5.0-py3.7-win-amd64.egg/lxml/usedoctest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/EGG-INFO/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/EGG-INFO/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/EGG-INFO/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/EGG-INFO/not-zip-safe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/EGG-INFO/requires.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/EGG-INFO/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/blkcntnr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/dml/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/dml/color.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/document.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/enum/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/enum/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/enum/dml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/enum/section.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/enum/shape.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/enum/style.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/enum/table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/enum/text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/image/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/image/bmp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/image/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/image/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/image/gif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/image/helpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/image/image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/image/jpeg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/image/png.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/image/tiff.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/opc/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/opc/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/opc/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/opc/coreprops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/opc/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/opc/oxml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/opc/package.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/opc/packuri.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/opc/part.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/opc/parts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/opc/parts/coreprops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/opc/phys_pkg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/opc/pkgreader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/opc/pkgwriter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/opc/rel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/opc/shared.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/opc/spec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/oxml/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/oxml/coreprops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/oxml/document.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/oxml/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/oxml/ns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/oxml/numbering.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/oxml/section.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/oxml/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/oxml/shape.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/oxml/shared.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/oxml/simpletypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/oxml/styles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/oxml/table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/oxml/text/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/oxml/text/font.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/oxml/text/paragraph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/oxml/text/parfmt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/oxml/text/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/oxml/xmlchemy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/package.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/parts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/parts/document.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/parts/hdrftr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/parts/image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/parts/numbering.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/parts/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/parts/story.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/parts/styles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/section.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/shape.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/shared.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/styles/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/styles/latent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/styles/style.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/styles/styles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/templates/default-footer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/templates/default-header.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/templates/default-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/templates/default-styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/templates/default.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/text/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/text/font.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/text/paragraph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/text/parfmt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/text/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_docx-0.8.10-py3.7.egg/docx/text/tabstops.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app2.py" beforeDir="false" afterPath="$PROJECT_DIR$/app2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app3.py" beforeDir="false" afterPath="$PROJECT_DIR$/app3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/easy-install.pth" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easy-install.pth" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +290,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RunManager" selected="Python.app2">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python">
@@ -234,7 +473,21 @@
       <option name="project" value="LOCAL" />
       <updated>1581615671971</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Python Practice">
+      <created>1581616768442</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581616768442</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Python Practice">
+      <created>1581616783819</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1581616783819</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -248,10 +501,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="363" y="122" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.768@0.0.1366.768" timestamp="1581531575700" />
-    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1581616765702">
+    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1581616781828">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1581616765702" />
+    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1581616781828" />
     <state x="463" y="128" key="FileChooserDialogImpl" timestamp="1581443294426">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -264,53 +517,53 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="559" y="282" width="261" height="204" key="Github.ShareDialog/0.0.1366.768@0.0.1366.768" timestamp="1581443045507" />
-    <state width="1345" height="192" key="GridCell.Tab.0.bottom" timestamp="1581616756591">
+    <state width="1345" height="192" key="GridCell.Tab.0.bottom" timestamp="1581676687312">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1581616756591" />
-    <state width="1345" height="192" key="GridCell.Tab.0.center" timestamp="1581616756582">
+    <state width="1345" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1581676687312" />
+    <state width="1345" height="192" key="GridCell.Tab.0.center" timestamp="1581676687312">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1581616756582" />
-    <state width="1345" height="192" key="GridCell.Tab.0.left" timestamp="1581616756582">
+    <state width="1345" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1581676687312" />
+    <state width="1345" height="192" key="GridCell.Tab.0.left" timestamp="1581676687312">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1581616756582" />
-    <state width="1345" height="192" key="GridCell.Tab.0.right" timestamp="1581616756582">
+    <state width="1345" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1581676687312" />
+    <state width="1345" height="192" key="GridCell.Tab.0.right" timestamp="1581676687312">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1581616756582" />
-    <state width="1345" height="238" key="GridCell.Tab.1.bottom" timestamp="1581610630956">
+    <state width="1345" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1581676687312" />
+    <state width="1345" height="238" key="GridCell.Tab.1.bottom" timestamp="1581616839478">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1581610630956" />
-    <state width="1345" height="238" key="GridCell.Tab.1.center" timestamp="1581610630955">
+    <state width="1345" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1581616839478" />
+    <state width="1345" height="238" key="GridCell.Tab.1.center" timestamp="1581616839478">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="238" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1581610630955" />
-    <state width="1345" height="238" key="GridCell.Tab.1.left" timestamp="1581610630955">
+    <state width="1345" height="238" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1581616839478" />
+    <state width="1345" height="238" key="GridCell.Tab.1.left" timestamp="1581616839478">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="238" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1581610630955" />
-    <state width="1345" height="238" key="GridCell.Tab.1.right" timestamp="1581610630955">
+    <state width="1345" height="238" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1581616839478" />
+    <state width="1345" height="238" key="GridCell.Tab.1.right" timestamp="1581616839478">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1581610630955" />
-    <state x="186" y="29" key="SettingsEditor" timestamp="1581443600254">
+    <state width="1345" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1581616839478" />
+    <state x="186" y="29" key="SettingsEditor" timestamp="1581675873926">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="186" y="29" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1581443600254" />
-    <state x="275" y="119" key="Vcs.Push.Dialog.v2" timestamp="1581615676676">
+    <state x="186" y="29" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1581675873926" />
+    <state x="275" y="119" key="Vcs.Push.Dialog.v2" timestamp="1581677971394">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="119" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1581615676676" />
-    <state x="391" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1581605372580">
+    <state x="275" y="119" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1581677971394" />
+    <state x="391" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1581672702761">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="391" y="211" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1581605372580" />
-    <state x="494" y="302" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581606984338">
+    <state x="391" y="211" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1581672702761" />
+    <state x="494" y="302" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581677878205">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="494" y="302" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1581606984338" />
+    <state x="494" y="302" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1581677878205" />
   </component>
 </project>
